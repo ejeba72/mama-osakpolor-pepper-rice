@@ -1,0 +1,9 @@
+{
+  "name": "mama-osakpolor-pepper-rice",
+  "version": "1.0.0",
+  "description": "This is an app for the fictional Mama Osakpolor Pepper Rice Restaurant.",
+  "main": "index.js",
+  "repository": "git@github.com:ejeba72/mama-osakpolor-pepper-rice.git",
+  "author": "Emmanuel Eni <eejeba@gmail.com>",
+  "license": "MIT"
+}
