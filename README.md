@@ -1,1 +1,1 @@
-# mama-osakpolor-pepper-rice
+# Mama Osakpolor Pepper Rice
